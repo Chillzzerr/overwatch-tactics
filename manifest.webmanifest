@@ -1,0 +1,19 @@
+{
+  "name": "Overwatch Tactics — Guide interactif",
+  "short_name": "OW Tactics",
+  "description": "Guide Overwatch avec héros, cartes annotables et plan de partie.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a1020",
+  "theme_color": "#10182a",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
